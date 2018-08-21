@@ -16,3 +16,19 @@ segment_stress.py makes use of transitional probabilites as well as the fact tha
 stressed syllables. The models performance was imporved when stress was taken into account. 
 
 evaluate.py is a script provided by the instructor to evaluate the performance of the model. 
+
+Performance of segment.py was as follows: 
+Precision: 0.955
+Recall: 0.401
+F-score: 0.565
+Accuracy: 0.500
+
+Performance of segment_stress.py was as follows:
+Precision: 0.932
+Recall: 0.875
+F-score: 0.902
+Accuracy: 0.847
+
+
+
+
