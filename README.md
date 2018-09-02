@@ -1,6 +1,6 @@
 # Speech-segmentation-using-transitional-probabilities
 
-(This project was done for LING 692c taught by Gaja Jarosz) 
+(This project was done for LING 692c taught by Prof. Gaja Jarosz) 
 
 The purpose of this code is to see if transitional probabilites can be used to accurately model speech segmentation. Speech as it is experienced by humans, is a continuous stream of sound with no explicit markers that can be used to determine where a word begins and ends. This poses a (significant) challenge to children attempting to aquire a given language. 
 
